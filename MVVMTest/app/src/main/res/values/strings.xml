@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+    <string name="visible">可见的</string>
+    <string name="invisible">不可见</string>
+</resources>

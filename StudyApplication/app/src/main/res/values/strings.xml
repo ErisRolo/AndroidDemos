@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyApplication</string>
+    <string name="myname">Joki</string>
+    <string name="helloworld">Hellor World!</string>
+</resources>
